@@ -4,7 +4,7 @@ Submitted by: **Artem Guz**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -31,9 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-![Project4-gif](https://github.com/arteeguz/CodePath_WEB102_Project4/assets/118378371/0e15b64d-bb5a-438b-b907-05e75b52d2f7)
-
+![Project4-gif](https://github.com/arteeguz/CodePath_WEB102_Project4/assets/118378371/52f06785-f5f3-40b9-a56a-5b192bf3a58e)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with OBS 
